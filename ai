@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DES-Hacker/DES-Ai-gui/main/Des%20AI"))()
